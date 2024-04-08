@@ -27,7 +27,7 @@ packaging==23.2
 pluggy==1.4.0
 pycparser==2.21
 pygments==2.17.2 ; python_version >= '3.6'
-pymongo==4.6.2
+pymongo==4.6.3
 pysolr==3.9.0
 pytest==8.0.2
 python-box==7.1.1
