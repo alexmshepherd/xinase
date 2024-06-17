@@ -41,7 +41,7 @@ toml==0.10.2
 tomli==2.0.1
 typing_extensions==4.10.0
 url-normalize==1.4.3
-urllib3==2.2.1
+urllib3==2.2.2
 waitress==3.0.0
 Werkzeug==3.0.1
 wrapt==1.16.0
